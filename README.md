@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Parlgy</h1>
 <h3 align="center">Product Designer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5de413cd9f8e64a05db6b804/5e3751187aa7cfaf8cabfa0b_profile-animation-smile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parlgy&label=Profile%20views&color=0e75b6&style=flat" alt="parlgy" /> </p>
 
