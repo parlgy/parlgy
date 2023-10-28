@@ -1,6 +1,6 @@
 <!--![MasterHead](https://qubstudio.com/wp-content/uploads/2019/08/product-design-banner.png)-->
 
-<h1 align="center">Hi 👋, I'm Parlgy</h1>
+<h1 align="center">Hi 👋, I'm Daniel Adero</h1>
 <h3 align="center">Product Designer</h3>
 
 
